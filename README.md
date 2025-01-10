@@ -55,7 +55,7 @@ The API will be available at `http://localhost:3000`.
 ### Game
 - `GET /api/colors` - Fetch available colors for prediction.
 - `POST /api/predict` - Submit a color prediction.
-- 
+  
 ### Admin
 - `POST /api/admin` - Submit a color prediction.
 
