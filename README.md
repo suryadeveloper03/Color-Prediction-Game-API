@@ -57,7 +57,7 @@ The API will be available at `http://localhost:3000`.
 - `POST /api/predict` - Submit a color prediction.
   
 ### Admin
-- `POST /api/admin` - Submit a color prediction.
+- `POST /api/admin` - Admin Access of all control.
 
 ---
 
